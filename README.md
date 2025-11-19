@@ -251,3 +251,5 @@ logging.config=classpath:log4j2.xml
 logging:
   config: classpath:log4j2.xml
 ```
+### 🔗 Демо
+Демо проект с подключением доступен по ссылке: [KafkaAppenderDemo](https://github.com/Olga-Tysevich/KafkaAppenderDemo)
